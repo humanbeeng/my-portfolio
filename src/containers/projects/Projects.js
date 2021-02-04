@@ -81,7 +81,8 @@ export default function Projects() {
   if (!(typeof repo === "string" || repo instanceof String) && openSource.display) {
     return (
       <Suspense fallback={renderLoader()}>
-        <div className="main" id="opensource">
+        <div id="projects">
+        <div className="main" id="technicalprojects">
           <h1 className="project-title">Open Source Projects</h1>
           <div className="repo-cards-div-main">
             {repo.map((v, i) => {
@@ -96,6 +97,7 @@ export default function Projects() {
             href={socialMediaLinks.github}
             newTab={true}
           />
+        </div>
         </div>
       </Suspense>
     );
