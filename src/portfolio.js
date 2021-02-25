@@ -52,7 +52,7 @@ const skillsSection = {
     emoji("📚 Read books and blogs on Medium and dev.to"),
     emoji("📽️ Edit YouTube Content for clients"),
     emoji("🎮 Stream games on Youtube @Retro"),
-    emoji("🚴🏻 Go on cycling looong way.. "),
+    emoji("🚴🏻 Go on cycling looong way... "),
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
