@@ -239,7 +239,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "View Source Code",
-          url: "http://github.com/humanbeeng/hadoop-auto",
+          url: "http://github.com/humanbeeng/hadoop-auto-install",
         },
         //  you can add extra buttons here.
       ],
