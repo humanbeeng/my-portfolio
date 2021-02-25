@@ -1,6 +1,6 @@
 {
-  "homepage": "humanbeeng.github.io/my-portfolio",
-  "name": "my-portfolio",
+  "homepage": "https://humanbeeng.github.io/my-portfolio",
+  "name": "humanbeeng.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
