@@ -170,6 +170,14 @@ const techStack = {
       Stack: "Data Structures and Algorithms",
       progressPercentage: "70%",
     },
+    {
+      Stack: "Computer Hardware",
+      progressPercentage: "70%",
+    },
+    {
+      Stack: "Android OS",
+      progressPercentage: "65%",
+    },
   ],
   displayCodersrank: false, // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
