@@ -15,7 +15,7 @@ const greeting = {
     "A student who codes for fun and an aspiring Full Stack Dev 🚀 having an experience of building Web applications with JavaScript / ReactJS / NodeJS  and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing",
+    "https://drive.google.com/file/d/18buGFPDZ2NHTQK-NqDrCUroutqVvPzop/view?usp=sharing",
   displayGreeting: true, // Set false to hide this section, defaults to true
 };
 
